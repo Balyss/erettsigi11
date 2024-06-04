@@ -1,0 +1,32 @@
+body{
+    background-color: #e0e0e0;
+}
+
+a{
+    color: #666584;
+}
+.table1{
+    width: 650px;
+    margin: auto;
+    border: none;
+    border-collapse: collapse;
+    background-color: #5C6B7B;
+}
+
+.table2{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+
+.cellaszin{
+    background-color: #CDDBEB;
+    height: 35px;
+    text-align: center;
+}
+b{
+    font-size:larger
+}
+.betu{
+    font-size: smaller;
+}
